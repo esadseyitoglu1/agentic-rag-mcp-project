@@ -201,7 +201,7 @@ async def ask_agent_streamlit(question: str, allow_trello: bool, groq_key: str =
                 agent = create_react_agent(fallback_llm, all_tools, prompt=REACT_SYSTEM_PROMPT)
                 result = await agent.ainvoke({"messages": formatted_messages})
 
-            trace = _extract_trace(result["messages"])
+            trace = _extract_trace(result["messages"][len(formatted_messages):])
             final_message = result["messages"][-1]
             return _content_to_text(final_message.content), tool_names, trace
 
