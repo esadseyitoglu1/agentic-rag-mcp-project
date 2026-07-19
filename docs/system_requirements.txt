@@ -1,0 +1,57 @@
+SHADOW MAZE - SISTEM GEREKSINIMLERİ VE PLATFORM DESTEĞİ
+Son güncelleme: 1 Haziran 2026
+
+=== MİNİMUM SİSTEM GEREKSİNİMLERİ ===
+
+İşlemci: Intel Core i3-6100 / AMD Ryzen 3 1200
+RAM: 4 GB
+Ekran Kartı: NVIDIA GeForce GTX 750 Ti / AMD Radeon RX 470
+DirectX: Sürüm 11
+Depolama: 3 GB kullanılabilir alan
+İşletim Sistemi: Windows 10 64-bit / macOS 10.15 / Ubuntu 20.04
+
+=== ÖNERİLEN SİSTEM GEREKSİNİMLERİ ===
+
+İşlemci: Intel Core i5-8400 / AMD Ryzen 5 2600
+RAM: 8 GB
+Ekran Kartı: NVIDIA GeForce GTX 1060 6GB / AMD Radeon RX 580
+DirectX: Sürüm 12
+Depolama: 4 GB SSD (daha hızlı yükleme için)
+İşletim Sistemi: Windows 10/11 64-bit
+
+=== DESTEKLENEN PLATFORMLAR ===
+
+PC (Steam): AKTIF - Tam destek
+Mac (Steam): AKTIF - M1/M2 optimizasyonu v1.3'te gelecek
+Linux (Steam): BETA - Proton ile çalışıyor, resmi destek v2.0'da
+Steam Deck: DOĞRULANMIS - Tam uyumlu
+PlayStation 5: PLANLANIYOR - 2027 Q1
+Xbox Series X/S: PLANLANIYOR - 2027 Q1
+Nintendo Switch: DEĞERLENDİRİLİYOR - Teknik inceleme devam ediyor
+iOS/Android: PLANLANMIYOR - Şimdilik yok
+
+=== KONTROL CİHAZI DESTEĞİ ===
+
+Klavye + Fare: TAM DESTEK (varsayılan)
+Xbox Kontrolcüsü: TAM DESTEK (otomatik algılama)
+PlayStation DualSense: TAM DESTEK (dokunsal geri bildirim destekli)
+Nintendo Pro Controller: KISMI (Steam Input ile)
+Genel HID Gamepad: KISMI DESTEK
+
+=== DİL DESTEĞİ ===
+
+Türkçe: TAM (metin + ses altyazı)
+İngilizce: TAM (metin + ses altyazı)
+Almanca: TAM (metin)
+İspanyolca: TAM (metin)
+Fransızca: PLANLANIYOR (v1.4)
+Japonca: PLANLANIYOR (v2.0)
+Arapça: DEĞERLENDİRİLİYOR
+
+=== ERIŞILEBILIRLIK ÖZELLİKLERİ ===
+
+Renk körü modu: MEVCUT (v1.2+)
+Yüksek kontrast modu: PLANLANIYOR
+Altyazı boyutu ayarı: MEVCUT
+Titreşim yoğunluğu ayarı: MEVCUT
+Tek el kontrolü: DEĞERLENDİRİLİYOR

@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Vektör veritabanı (yeniden oluşturulabilir)
+vectordb/
+
+# Loglar
+agent_logs.jsonl
+streamlit.log

@@ -1,0 +1,75 @@
+SHADOW MAZE - MÜŞTERI DESTEĞİ TICKET GEÇMİŞİ
+Tarih Aralığı: 1-15 Temmuz 2026
+Toplam Ticket: 47 | Çözülen: 38 | Bekleyen: 9
+
+=== TICKET KAYITLARI ===
+
+[TICKET-001] | Tarih: 02.07.2026 | Durum: ÇÖZÜLDÜ
+Kullanıcı: ali_kaya_89
+Kategori: Teknik Hata
+Mesaj: "Oyun sürekli crash veriyor, açılmıyor bile."
+Destek Yanıtı: Visual C++ Redistributables eksikmiş. Yükleme linki gönderildi.
+Çözüm Süresi: 2 saat
+
+[TICKET-002] | Tarih: 03.07.2026 | Durum: ÇÖZÜLDÜ
+Kullanıcı: pixel_queen_tr
+Kategori: Kayıt/İlerleme
+Mesaj: "Bölüm 2'deki checkpoint çalışmıyor, oyunu kapatıp açınca sıfırlıyorum."
+Destek Yanıtı: Bilinen hata, v1.2 yamasında düzeltilecek. Tazminat kodu gönderildi.
+Çözüm Süresi: 1 gün (yama ile)
+
+[TICKET-003] | Tarih: 05.07.2026 | Durum: ÇÖZÜLDÜ
+Kullanıcı: karanlık_gezgin
+Kategori: Teknik Hata
+Mesaj: "Patron savaşında oyun donuyor, 3. bölümü geçemiyorum."
+Destek Yanıtı: Bilinen hata, v1.2 yamasında düzeltildi. Güncelleme yapması istendi.
+Çözüm Süresi: 1 gün (yama ile)
+
+[TICKET-004] | Tarih: 06.07.2026 | Durum: ÇÖZÜLDÜ
+Kullanıcı: gamer_ahmet
+Kategori: Soru
+Mesaj: "Para iadesi nasıl alabilirim?"
+Destek Yanıtı: Steam'in 2 saat altı iade politikası açıklandı. Steam destek linkı gönderildi.
+Çözüm Süresi: 30 dakika
+
+[TICKET-005] | Tarih: 07.07.2026 | Durum: ÇÖZÜLDÜ
+Kullanıcı: speedrunner_tr
+Kategori: Öneri
+Mesaj: "Oyun saatini gösteren bir mod istiyorum, speedrun için."
+Destek Yanıtı: Talep kaydedildi. v1.3'te resmi speedrun saati eklenecek.
+Çözüm Süresi: N/A (özellik talebi)
+
+[TICKET-006] | Tarih: 08.07.2026 | Durum: ÇÖZÜLDÜ
+Kullanıcı: ses_sorunu_var
+Kategori: Teknik Hata
+Mesaj: "Her adımda çift ses geliyor, çok rahatsız edici."
+Destek Yanıtı: Bilinen hata, v1.2 yamasında düzeltildi.
+Çözüm Süresi: 2 gün (yama ile)
+
+[TICKET-007] | Tarih: 09.07.2026 | Durum: ÇÖZÜLDÜ
+Kullanıcı: low_fps_oyuncu
+Kategori: Performans
+Mesaj: "GTX 1050'de FPS çok düşük, oynanamıyor."
+Destek Yanıtı: Grafik ayarlarını düşürmesi önerildi. v1.2'deki optimizasyon sonrası iyileşti.
+Çözüm Süresi: 3 gün
+
+[TICKET-008] | Tarih: 12.07.2026 | Durum: BEKLIYOR
+Kullanıcı: mac_kullanicisi
+Kategori: Platform
+Mesaj: "Mac'te FPS 30'un altında, M1 Mac kullanıyorum."
+Destek Yanıtı: M1 optimizasyonu v1.3'te planlanıyor. Geçici çözüm önerildi.
+Çözüm Süresi: -
+
+[TICKET-009] | Tarih: 14.07.2026 | Durum: BEKLIYOR
+Kullanıcı: türkce_yanlislari
+Kategori: Çeviri
+Mesaj: "Türkçe çeviride bazı yerlerde yanlış kelimeler var."
+Destek Yanıtı: Hatalı cümlelerin listesi istendi.
+Çözüm Süresi: -
+
+=== ÖZET İSTATİSTİKLER ===
+
+En sık şikayet kategorisi: Teknik Hata (%45)
+Ortalama çözüm süresi: 1.8 gün
+Memnuniyet puanı (kapanan ticketlar): 4.1/5
+v1.2 yaması sonrası ticket azalma oranı: %60

@@ -1,0 +1,48 @@
+SHADOW MAZE - BİLİNEN HATALAR VE ÇÖZÜMLER (SSS)
+Son güncelleme: 12 Temmuz 2026
+
+=== SIKÇA SORULAN SORULAR ===
+
+S: Oyun bölüm 3'te donuyor, ne yapabilirim?
+C: Bu bilinen bir hatadır. v1.2 yamasıyla düzeltildi (10 Temmuz 2026).
+Oyununuzu Steam üzerinden güncelleyin. Hâlâ sorun yaşıyorsanız:
+1. Steam > Kütüphane > Shadow Maze > Sağ tık > Özellkler > Yerel Dosyalar > Oyun Dosyalarını Doğrula
+2. Anti-virüs yazılımınızın oyunu engellediğinden emin olun
+3. Grafik sürücülerinizi güncelleyin
+
+S: Kayıtlarım silindi, ne yapmalıyım?
+C: v1.2 yamasından önce yaşanan checkpoint sorunu nedeniyle bazı oyuncular kayıt kaybetti.
+Maalesef otomatik kurtarma mümkün değil. Ancak v1.2 ile sorun tamamen giderildi.
+Tazminat olarak tüm etkilenen oyunculara oyun içi özel kostüm kodu gönderildi.
+Kodunuz için destek@hiyel-studios.com adresine mail atın.
+
+S: Ses iki kez çıkıyor, nasıl düzeltirim?
+C: Bu sorun da v1.2'de düzeltildi. Güncelleme yaptıktan sonra sorun devam ediyorsa:
+- Ayarlar > Ses > Ses Çıkış Cihazı kısmını kontrol edin
+- Windows ses sürücüsünü güncelleyin
+
+S: FPS çok düşük, ne yapabilirim?
+C: Minimum sistem gereksinimleri:
+- İşlemci: Intel i5-8400 / AMD Ryzen 5 2600
+- RAM: 8 GB
+- Ekran Kartı: GTX 1060 / RX 580
+- Depolama: 4 GB SSD (önerilir)
+
+v1.2 yamasında genel performans iyileştirmeleri yapıldı (+15 FPS ortalama).
+Ayarlar > Grafik > Düşük modda deneyin.
+
+S: Oyun başlamıyor / crash veriyor?
+C: Adımları sırayla deneyin:
+1. Oyunu yönetici olarak çalıştırın
+2. Visual C++ Redistributables yükleyin (Steam genellikle otomatik yükler)
+3. .NET 6.0 Runtime yüklü olduğundan emin olun
+4. Antivirüs beyaz listesine ekleyin
+
+=== GELİŞTİRİCİ NOTLARI ===
+
+Hiyel Studios ekibi olarak tüm geri bildirimlerinizi dikkate alıyoruz.
+Bildirilen her hata için GitHub Issues sayfamızı inceleyebilirsiniz:
+github.com/hiyel-studios/shadow-maze-issues
+
+Discord sunucumuz: discord.gg/hiyel
+Twitter: @HiyelStudios

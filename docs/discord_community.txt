@@ -1,0 +1,54 @@
+SHADOW MAZE - DISCORD TOPLULUK MESAJLARI
+Kanal: #bug-reports | Tarih: 8-14 Temmuz 2026
+
+=== MESAJLAR ===
+
+[2026-07-08 14:23] Karanlık_Şövalye:
+Patron savaşı donma sorunu var, kimse aynı şeyi yaşıyor mu?
+3 kez denedim hep aynı yerde kilitlendi :(
+
+[2026-07-08 14:45] PixelMaster99:
+Ben de aynı sorunla karşılaştım! Bölüm 3 patron ikinci fazında tam donuyor.
+GPU: RTX 3060, RAM: 16GB, Win 11
+
+[2026-07-08 15:10] HiyelDevTeam (Geliştirici):
+Sorunu tespit ettik! Patron animasyon geçişinde bir hata var.
+Yama üzerinde çalışıyoruz, bu hafta içinde yayınlanacak.
+
+[2026-07-09 09:30] SteamAholic:
+Checkpoint sorunu da var arkadaşlar. Bölüm 2'de 40 dakika oynadım,
+kapattım açtım sıfırdan başladım. Çok sinir bozucu...
+
+[2026-07-09 11:00] HiyelDevTeam (Geliştirici):
+Checkpoint sorununu da tespit ettik, yama notlarına ekledik.
+Her iki kritik sorun aynı yamada çözülecek. Bekleyiniz!
+
+[2026-07-10 18:00] HiyelDevTeam (Geliştirici):
+@everyone v1.2 YAMASI YAYINDA! 🎉
+- Patron donma sorunu ÇÖZÜLDÜ
+- Checkpoint kayıt sorunu ÇÖZÜLDÜ  
+- Ses double audio ÇÖZÜLDÜ
+- Renk körü modu EKLENDİ
+- Türkçe dil desteği EKLENDİ
+Steam üzerinden güncelleyin!
+
+[2026-07-10 18:30] Karanlık_Şövalye:
+Güncelleme geldi, patron savaşını geçtim! Teşekkürler ekip! 🙏
+
+[2026-07-11 20:15] NewPlayer_2026:
+Merhaba, oyunu yeni aldım ama başlamıyor bile. Crash verip kapanıyor.
+
+[2026-07-11 20:20] PixelMaster99:
+@NewPlayer_2026 Visual C++ Redistributables yüklü mü? Genellikle o sorun oluyor.
+Steam > Kütüphane > Shadow Maze > Yerel dosyaları doğrula da dene.
+
+[2026-07-12 10:00] SpeedRunQueen:
+v1.3'te lider tablosu geliyor mu? Speedrun topluluğu olarak sabırsızlanıyoruz!
+
+[2026-07-12 10:30] HiyelDevTeam (Geliştirici):
+@SpeedRunQueen Evet! v1.3'te resmi speedrun sayacı ve lider tablosu geliyor.
+Ağustos sonunda hedefliyoruz. Speedrun kategorileri için önerilerin varsa #feedback kanalına yaz!
+
+[2026-07-14 22:00] NightOwl_Gamer:
+Türkçe dil desteği için teşekkürler! Artık annemle birlikte oynuyoruz 😊
+Çeviri kalitesi gerçekten iyi, belli ki özenle yapılmış.

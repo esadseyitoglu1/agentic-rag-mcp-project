@@ -1,0 +1,39 @@
+HIYEL STUDIOS - OYUN ADI: SHADOW MAZE
+YAMA NOTLARI v1.2 - 10 Temmuz 2026
+
+=== KRİTİK HATA DÜZELTMELERİ ===
+
+[HATA-001] Patron savaşı sırasında oyun donuyor
+Durum: ÇÖZÜLDÜ
+Açıklama: Bölüm 3 patronu (Gölge Efendi) ile savaş başladığında bazı oyuncular
+oyunun tamamen donduğunu bildirdi. Sorun, patronun ikinci fazına geçişte yanlış
+animasyon durumu tetiklenmesinden kaynaklanıyordu.
+Etkilenen platform: PC, Steam Deck
+Etkilenen oyuncu sayısı: ~340 oyuncu
+
+[HATA-002] Checkpoint kaydetmiyor
+Durum: ÇÖZÜLDÜ
+Açıklama: Bölüm 2 ortasındaki checkpoint noktasına ulaşan oyuncular oyunu kapatıp
+açtıklarında bölümün başından başladıklarını fark etti. Veri kaydetme sistemi
+yanlış sahne ID'si kullanıyordu.
+Etkilenen platform: Tüm platformlar
+
+[HATA-003] Ses efektleri çift çalıyor
+Durum: ÇÖZÜLDÜ
+Açıklama: Belirli bir hızda hareket edildiğinde adım sesleri iki kez tetikleniyordu.
+Audio Manager'da duplicate trigger sorunu vardı.
+
+=== YENİ ÖZELLİKLER ===
+
++ Renk körü modu eklendi (ayarlar > erişilebilirlik)
++ Türkçe dil desteği eklendi
++ Hız koşu modu için yeni kontrol seçeneği (varsayılan: Shift)
+
+=== PERFORMANS İYİLEŞTİRMELERİ ===
+
+- Bölüm 3 yüklenme süresi %40 azaltıldı
+- Orta segment GPU'larda FPS artışı: yaklaşık +15 FPS
+- Bellek kullanımı optimize edildi (özellikle 8GB RAM'li sistemler)
+
+Bir sonraki yama: v1.3 - Tahmini tarih: Ağustos 2026
+Planlanan: Yeni bölüm, çok oyunculu beta, lider tablosu sistemi

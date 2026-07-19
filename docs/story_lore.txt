@@ -1,0 +1,53 @@
+SHADOW MAZE - OYUN İÇİ HİKAYE VE LORE BELGESİ
+Geliştirici Dünya İnşası Notları
+
+=== ANA HİKAYE ÖZETİ ===
+
+Yüzyıllar önce, Gölge Labirenti'ni yaratan gizemli büyücü Kael, ölümsüzlüğe kavuşmak için
+labirentin merkezine Gölge Taşı'nı yerleştirmiştir. Ancak bu taş zamanla bozulmuş ve
+labirentten sürekli karanlık yaratıklar çıkmaya başlamıştır.
+
+Oyuncu, labirenti temizlemek için gönderilen son savaşçı Zara'yı canlandırır.
+Zara'nın amacı: Gölge Taşı'nı bulmak ve imha etmek.
+
+=== BÖLÜM HİKAYELERİ ===
+
+Bölüm 1 - Giriş Koridoru:
+Zara labirente girer. Temel düşmanlarla tanışır. Eski bir kayıt taşında
+önceki savaşçıların başarısızlık notları bulunur.
+
+Bölüm 2 - Kristal Mağaralar:
+Labirentin enerji kaynağı olan kristaller bozulmuştur.
+Patron: Kristal Golem - Bölümün enerjisini kontrol eder.
+
+Bölüm 3 - Gölge Tapınağı:
+Kael'in eski araştırma merkezi. Duvarlarda labirentin yaratılış sırrı vardır.
+Patron: Gölge Efendi - Kael'in en güçlü yarattığı varlık.
+
+Bölüm 4 - Karanlık Orman (v1.3'te gelecek):
+Labirentin dışına taşmış karanlık. Doğa ile gölge iç içe geçmiş.
+Patron: Orman Canavarı - Karanlık tarafından ele geçirilmiş eski bir koruyucu.
+
+Bölüm 5 - Taşın Kalbi:
+Gölge Taşı'nın bulunduğu yer. Son patron: Kael'in ruhu.
+
+=== DÜŞMAN LORE'U ===
+
+Gölge Askeri: Kael'in eski koruyucuları, gölge tarafından zombileştirilmiş.
+Kristal Elemental: Bozulmuş kristal enerjisinden doğan varlıklar.
+Gölge Avcısı: Labirente giren savaşçıları avlamak için tasarlanmış otonom varlıklar.
+Karanlık Büyücü: Kael'in öğrencileri, ustalarının yolundan gitmeye devam ediyor.
+
+=== ZARA'NIN GEÇMİŞİ ===
+
+Zara, kaybolan köyünün intikamını almak için gönüllü olmuş genç bir savaşçıdır.
+Köyü, labirentten çıkan yaratıklar tarafından yıkılmıştır.
+Özel yeteneği: Gölge enerjisini absorbe edebilir ve silah olarak kullanabilir.
+Bu yetenek oyun mekaniğine yansır: Düşman enerjisi silah modifikasyonlarına dönüşür.
+
+=== SONUÇ (SPOILER) ===
+
+Oyun iki farklı sonla biter:
+Son A - Taş İmha Edilir: Labirent çöker, Zara köyüne döner. "İyi" son.
+Son B - Zara Taşı Emer: Zara güçlenir ama karanlığa teslim olur. "Gizli" son.
+Gizli sona ulaşmak için tüm gizli odalara girmek ve hiç ölmemek gerekir.

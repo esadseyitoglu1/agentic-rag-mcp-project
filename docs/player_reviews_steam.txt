@@ -1,0 +1,62 @@
+SHADOW MAZE - STEAM OYUNCU YORUMLARI
+Toplam: 1,247 yorum | Genel değerlendirme: Çoğunlukla Olumlu (%74)
+Son 30 gün: %78 olumlu
+
+=== OLUMSUZ YORUMLAR (Son 30 Gün) ===
+
+[YOR-001] Kullanıcı: KocaeliliGamer | 2 Saat Oynandı | Tavsiye Etmiyor
+"Oyun gerçekten güzel tasarlanmış ama bölüm 3'te patron savaşı sırasında oyun donuyor.
+Üç kez denedim, her seferinde aynı noktada kilitlendi. Steam yeniden başlatmayı denedim,
+işe yaramadı. Bu oyunun potansiyeli var ama bu kadar kritik bir hata kabul edilemez.
+Düzeltilirse tavsiye ederim."
+Etiketler: Patron hatası, Donma, Bölüm 3
+
+[YOR-002] Kullanıcı: PixelHunter_TR | 8 Saat Oynandı | Tavsiye Etmiyor
+"Checkpoint sistemi bozuk. Bölüm 2'de yarım saat oynadım, oyunu kapattım ve tekrar
+açtığımda sıfırdan başlamıştım. Bu 2026'da kabul edilemez. Kaydetme sistemi düzeltilmezse
+para iadesi isteyeceğim. Oyunun atmosferi inanılmaz ama bu hata her şeyi mahvediyor."
+Etiketler: Checkpoint, Kaydetme sorunu, Veri kaybı
+
+[YOR-003] Kullanıcı: NightOwlDev | 15 Saat Oynandı | Tavsiye Etmiyor
+"Patron savaşı donuyor - önceki yorumcularla aynı sorun. Steam incelemelerini okumadan
+alsaydım pişman olurdum. Geliştiricinin acil yama yapması şart. Bölüm 3 tamamen oynanamaz."
+Etiketler: Patron hatası, Donma, Kritik hata
+
+[YOR-004] Kullanıcı: MobileFirst | 3 Saat Oynandı | Tavsiye Etmiyor
+"Kontroller çok kasıtlı hissettiriyor. Oyun karakteri bazen komutlara geç yanıt veriyor.
+Özellikle platformlama bölümlerinde bu gecikme can sıkıcı. Belki optimizasyon eksikliği
+ya da input lag sorunu var. Düşük FPS'de daha belirgin hale geliyor."
+Etiketler: Input lag, Kontrol, Performans
+
+[YOR-005] Kullanıcı: SteamPurger | 1 Saat Oynandı | Tavsiye Etmiyor
+"Oyun sesin iki kez çıkması çok rahatsız edici. Her adım atışımda çift ses geliyor.
+Kulaklıkla oynarken kulakları patlatiyor. Ses ayarlarından düzeltemedim."
+Etiketler: Ses hatası, Audio, Teknik sorun
+
+=== OLUMLU YORUMLAR (Son 30 Gün) ===
+
+[YOR-006] Kullanıcı: IndieLover2026 | 45 Saat Oynandı | Tavsiye Ediyor
+"Türkçe dil desteği eklediniz, çok teşekkürler! Artık eşimle birlikte oynuyoruz.
+Bölüm tasarımı muhteşem, her köşede yeni bir sürpriz var. Geliştirici ekibi gerçekten
+emek vermiş. Fiyatına göre inanılmaz içerik."
+Etiketler: Türkçe destek, Bölüm tasarımı, Fiyat-kalite
+
+[YOR-007] Kullanıcı: AccessibilityMatters | 22 Saat Oynandı | Tavsiye Ediyor
+"Renk körü modunu ekledikleri için geliştiricilere teşekkür ederim. Artık benim gibi
+renk körü oyuncular da rahatça oynayabiliyor. Bu tür erişilebilirlik özelliklerini
+ana akım oyun şirketleri bile ihmal ediyor."
+Etiketler: Erişilebilirlik, Renk körü modu, Pozitif
+
+=== YORUM ANALİZİ ÖZETİ ===
+
+En sık bahsedilen hatalar:
+1. Patron savaşı donması (12 ayrı yorum) - KRİTİK
+2. Checkpoint/kaydetme sorunu (8 ayrı yorum) - KRİTİK  
+3. Ses double audio (5 ayrı yorum) - ORTA
+4. Input lag/kontrol gecikmesi (4 ayrı yorum) - ORTA
+
+En sık övülen özellikler:
+1. Bölüm/level tasarımı
+2. Atmosfer ve görsel stil
+3. Türkçe dil desteği
+4. Fiyat-kalite oranı

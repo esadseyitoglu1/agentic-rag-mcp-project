@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" --max-time 5 https://duckduckgo.com)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" --max-time 5 https://www.google.com)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" --max-time 5 https://www.bing.com)",
+      "Bash(nslookup www.bing.com)",
+      "Bash(PYTHONUTF8=1 python -c ' *)",
+      "Bash(pip install *)",
+      "Bash(python -m py_compile app.py agent_graph.py mcp_agent.py rag_engine.py)",
+      "Bash(PYTHONUTF8=1 python -m streamlit run app.py --server.fileWatcherType none --server.headless true --server.port 8501)",
+      "Bash(echo \"Started with PID $!\")",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" --max-time 5 http://localhost:8501)",
+      "Bash(curl -s --max-time 10 http://localhost:8501)",
+      "Skill(run)",
+      "Skill(run:*)",
+      "Bash(chromium-cli --session ragbot)",
+      "Read(//c//**)",
+      "Bash(npm ls *)",
+      "Bash(python -c \"import playwright; print\\('playwright python OK'\\)\")",
+      "Bash(node -e \"require\\('playwright'\\); console.log\\('playwright node OK'\\)\")",
+      "Bash(python -c \"import playwright\")",
+      "Bash(curl -s --max-time 10 http://localhost:8501/)",
+      "Bash(python -m py_compile app.py)",
+      "Bash(python -c \"import pptx; print\\('python-pptx OK'\\)\")",
+      "Bash(tasklist //FI \"IMAGENAME eq python.exe\" //V)",
+      "PowerShell(Get-CimInstance Win32_Process -Filter \"Name='python.exe'\")",
+      "Bash(tasklist //FI \"PID eq 11980\")",
+      "Bash(tasklist //FI \"PID eq 31568\")",
+      "Bash(taskkill //PID 29908 //F)",
+      "Bash(rm -f streamlit.log)",
+      "Bash(python -c \"import google.genai; print\\('google-genai OK'\\)\")",
+      "Bash(python -c \"import langchain_google_genai; print\\('langchain-google-genai OK'\\)\")"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+SHADOW MAZE - OYUN İÇİ EKONOMİ VE PROGRESSION SİSTEMİ
+Geliştirici İç Belgesi | Gizlilik: Herkese Açık
+
+=== PARA BİRİMİ SİSTEMİ ===
+
+Gölge Kristali (Ana Para Birimi):
+- Düşmanları öldürerek kazanılır
+- Bölüm sonunda bonus verilir
+- Mağazada kostüm, silah ve güçlendirici alınır
+- Ücretli satın alma YOKTUR (pay-to-win yok)
+
+Karanlık Esans (Nadir Para Birimi):
+- Sadece patron savaşlarından düşer
+- Özel kozmetik içeriklere harcanır
+- Oynanış avantajı sağlamaz
+
+=== SEVİYE VE STAT SİSTEMİ ===
+
+Oyuncu seviye sistemi YOKTUR.
+Karakter gücü: Bulunan silah ve zırh parçalarına göre belirlenir.
+Her bölümün başında ekipman sıfırlanır (roguelite eleman).
+Bu tasarım kararı: Beceri > Grind felsefesi.
+
+=== SİLAH SİSTEMİ ===
+
+Silah Sınıfları:
+1. Hizir Klici (hızlı, hafif hasar)
+2. Gölge Yayı (menzilli, orta hasar)
+3. Kaos Baltasi (yavaş, ağır hasar)
+4. Ruh Asası (sihirli, alan hasarı) - v1.3'te eklenecek
+
+Silah Modifikatörleri (rastgele):
+- Alev Dokunusu: %15 ekstra yangın hasarı
+- Buz Dokunusu: Düşmanı yavaşlatır
+- Şimşek Dokunusu: Zincir hasar
+- Gölge Dokunusu: Kritik vuruş şansı +%20
+
+=== KOSTÜM VE KOZMETİK ===
+
+Temel kostümler: 12 adet (başlangıçta açık)
+Kilit kostümler: 24 adet (Gölge Kristali ile açılır)
+Etkinlik kostümleri: 3 adet (Steam bağlantılı)
+DLC kostümleri: PLANLANMIYOR (oyun içi kazanım felsefesi)
+
+=== BAŞARIM SİSTEMİ ===
+
+Toplam başarım: 39 adet
+Gizli başarımlar: 8 adet
+Platform: Steam başarımları + oyun içi rozetler
+
+Örnek başarımlar:
+- "İlk Adim": İlk bölümü tamamla
+- "Patron Katili": Tüm patronları yenilgiye uğrat
+- "Hizli Eller": 60 saniyeden kısa sürede 50 düşman öldür
+- "Hilesiz": Hiç kostüm bonusu kullanmadan oyunu bitir
+- "Koleksiyoncu": Tüm silah türlerini kullan

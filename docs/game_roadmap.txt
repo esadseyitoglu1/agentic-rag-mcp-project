@@ -1,0 +1,49 @@
+SHADOW MAZE - OYUN İÇİ GELİŞTİRME YOLU (ROADMAP)
+Hiyel Studios | Güncel Versiyon: v1.2
+
+=== YAYINLANANLAR ===
+
+v1.0 - İlk Çıkış (1 Haziran 2026)
+✓ 5 bölüm
+✓ 3 patron savaşı
+✓ Steam başarımları (24 adet)
+✓ Temel kontrol özelleştirme
+
+v1.1 - Kalite İyileştirme (25 Haziran 2026)
+✓ UI/UX iyileştirmeleri
+✓ 15 Steam başarımı eklendi
+✓ Klavye remapping
+✓ Küçük hata düzeltmeleri
+
+v1.2 - Erişilebilirlik Güncellemesi (10 Temmuz 2026)
+✓ Renk körü modu
+✓ Türkçe, Almanca, İspanyolca dil desteği
+✓ Kritik hata düzeltmeleri (patron, checkpoint, ses)
+✓ Performans optimizasyonu
+
+=== PLANLANMAKTA OLANLAR ===
+
+v1.3 - Bölüm Genişlemesi (Ağustos 2026)
+[ ] Yeni bölüm: "Karanlık Orman" (2 alt bölüm)
+[ ] Yeni patron: Orman Canavarı
+[ ] 10 yeni müzik parçası
+[ ] Speedrun sayacı ve lider tablosu
+
+v1.4 - Çok Oyunculu Beta (Eylül 2026)
+[ ] Co-op modu (2 kişi, yerel ağ)
+[ ] Rekabetçi mod taslağı
+[ ] Yeni kontrol cihazı desteği (joystick)
+
+v2.0 - Büyük Genişleme (Q1 2027)
+[ ] 5 yeni bölüm
+[ ] Hikaye modu (full voice acting)
+[ ] Mod desteği (Steam Workshop)
+[ ] Konsollar: PlayStation 5, Xbox Series X
+
+=== TOPLULUK İSTEKLERİ (Oy Sayısına Göre) ===
+
+1. [847 oy] Yeni oyun+ modu - PLANLANDA (v1.4)
+2. [634 oy] Foto modu - DEĞERLENDIRILIYOR
+3. [521 oy] Daha fazla patron - v1.3'te 1 ekleniyor
+4. [398 oy] Mobil versiyon - PLANLANMIYOR (şimdilik)
+5. [287 oy] Linux desteği - DEĞERLENDIRILIYOR
